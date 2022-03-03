@@ -17,8 +17,8 @@ This is a template for the configuration file.
 Make a copy called `application.yml` and change the values below.
 
 line.bot:
-  channel-token: goXm+vLMHSZl/6zdIURMUYNm37iYbFMhRC5puDpaOLHnIL7eu5V34B5HeDdPbIf1oXu+exj1ynI/GePO5UJ+b+y2XwCly5xJxOACCXUd/8/d46ZWVtNN7rjK2SNke9OSINpE6eknLnXfYzU0m9eEswdB04t89/1O/w1cDnyilFU=
-  channel-secret: 69b3be101dc180ffa59c5eaac5e5ced1
+  channel-token: "goXm+vLMHSZl/6zdIURMUYNm37iYbFMhRC5puDpaOLHnIL7eu5V34B5HeDdPbIf1oXu+exj1ynI/GePO5UJ+b+y2XwCly5xJxOACCXUd/8/d46ZWVtNN7rjK2SNke9OSINpE6eknLnXfYzU0m9eEswdB04t89/1O/w1cDnyilFU="
+  channel-secret: "69b3be101dc180ffa59c5eaac5e5ced1"
   handler.path: /callback
 
 # To remove Client wire logs. Please comment out following lines.
